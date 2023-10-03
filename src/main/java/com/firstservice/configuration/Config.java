@@ -1,5 +1,4 @@
-package com.example.configserver.configuration;
-
+package com.firstservice.configuration;
 
 import lombok.Data;
 import org.springframework.beans.factory.annotation.Value;

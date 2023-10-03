@@ -1,0 +1,6 @@
+server:
+  port: 8089
+
+my:
+  property:
+    test: Hello World!!

@@ -8,4 +8,6 @@ spring:
 
   cloud:
     config:
-      uri: ${CONFIG_SERVER_URL}
+      server:
+        git:
+          uri: ${CONFIG_SERVER_URL}
